@@ -2,8 +2,9 @@ package tests
 
 import (
 	"fmt"
-	"github.com/xrash/smetrics"
 	"testing"
+
+	"github.com/oscarpicas/smetrics"
 )
 
 func TestUkkonen(t *testing.T) {
